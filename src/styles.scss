@@ -1,1 +1,58 @@
 /* You can add global styles to this file, and also import other style files */
+
+@import '~bootstrap/dist/css/bootstrap.css';
+@import url(https://fonts.googleapis.com/css?family=Tangerine);
+@import url(https://fonts.googleapis.com/css?family=Abel);
+// This style is for images that will be frozen will text scrolls over
+.scrollTextOverFreezeImg {
+    background: #ffffff00;
+    height: 120vh;
+    line-height: 50px;
+    margin-top: 10px;
+    padding-left: 10px;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0px;
+}
+
+// This style the text that scrolls over them
+.scrollText {
+    background: #ffffff00;
+    height: 120vh;
+    line-height: 50px;
+    margin-top: 10px;
+    padding-left: 10px;
+    top: 0px;
+}
+
+h5,
+h5,
+h4,
+h3,
+h2,
+h1 {
+    color: #555454;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+    font-size: 72px;
+    font-weight: lighter;
+    font-family: Impact, Charcoal, sans-serif;
+}
+
+h2 {
+    font-size: 58px;
+    font-weight: lighter;
+    font-family: Impact, Charcoal, sans-serif;
+}
+
+h3 {
+    font-size: 42px;
+    font-family: Abel, sans-serif;
+}
+
+h4 {
+    font-size: 36px;
+    font-family: Abel, sans-serif;
+}
