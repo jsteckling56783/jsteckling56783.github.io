@@ -1,7 +1,7 @@
 [Submission Here](https://jsteckling56783.github.io/bike-data-mindsumo/)
 
 
-#Hi MindSumo,
+# Hi MindSumo,
 
 I accidentally submitted my URL for the [Bike Data Challenge](https://www.mindsumo.com/contests/bikeshare-data) with a typo, and my real submission is above. Sorry for the inconvenience, and thank you so much for the oppurtunity!
 
